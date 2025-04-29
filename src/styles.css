@@ -1,0 +1,15 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.my-button-style {
+  background-color: rgb(172, 243, 219);
+  border-radius: 12px;
+  padding: 2px;
+  border: none;
+}
+
+.input-style {
+  border-radius: 4px;
+}
